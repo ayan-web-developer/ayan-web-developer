@@ -1,0 +1,64 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+}
+
+.services {
+  color: red;
+  margin-top: 50px;
+}
+
+.bars {
+  color: red;
+}
+
+.exp {
+  color: brown;
+  margin-left: 300px;
+}
+
+nav {
+  margin-left: 1000px;
+  color: brown;
+  display: flex;
+  word-spacing: 50px;
+  list-style: none;
+  align-items:end;
+}
+
+.h {
+  color: brown;
+}
+
+.h:hover {
+  color: yellow;
+}
+
+.s {
+  color: brown;
+}
+
+.s:hover {
+  color: yellow;
+}
+
+li {
+  display: flex;
+}
+
+.ch1 {
+  color: brown;
+}
+
+.ch1:hover {
+  color: yellow;
+}
+
+.ch2 {
+  color: brown;
+}
+
+.ch2:hover {
+  color: yellow;
+}

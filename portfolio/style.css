@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+}
+
+.welcome {
+  color: white;
+  margin-left: 600px;
+}
+
+.intro {
+  color: red;
+  font-weight: 700;
+  margin-top: 150px;
+  margin-left: 850px
+}
+
+.pic {
+  color: red;
+  font-weight: 700;
+  border-radius: 50%;
+  ;
+}
+
+nav {
+  color: brown;
+  display: flex;
+  word-spacing: 50px;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.h {
+  color: brown;
+}
+
+.h:hover {
+  color: yellow;
+}
+
+.s {
+  color: brown;
+}
+
+.s:hover {
+  color: yellow;
+}
+
+.c {
+  color: brown;
+}
+
+.c:hover {
+  color: yellow;
+}
+
+.ch1 {
+  color: brown;
+}
+
+.ch1:hover {
+  color: yellow;
+}
+
+.ch2 {
+  color: brown;
+}
+
+.ch2:hover {
+  color: yellow;
+}
+
+button {
+  color: red;
+  margin-left: 450px;
+  border-radius: 50px;
+}
+
+button:hover {
+  background-color: red;
+  color: black;
+  transform: translateY(-20px);
+  transition: 1s ease-in-out;
+}
+
+.my {
+  color: red;
+}
+
+li {
+  display: flex;
+}
+
+.left {
+  word-spacing: 0.5em;
+  size: 2rem;
+  margin-left: 100px;
+}
+
+img {
+  float: left;
+  width: 400px;
+  height: 200px;
+}
